@@ -17,7 +17,6 @@ public class Functions {
         System.out.println("Hello world");
         System.out.println(1);
     }
-
     static boolean isOdd(int x) {
         boolean result = ((x%2) != 0);
         return result;
@@ -35,3 +34,5 @@ public class Functions {
 //    }
 
 }
+
+
