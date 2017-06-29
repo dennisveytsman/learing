@@ -1,8 +1,10 @@
+package main;
+
 public class MoreAboutArrays {
 
     public static void main(String[] args) {
         //program arguments are used to call program and pass it some arguments
-        //run -> edit configurations -> MoreAboutArrays -> program arguments
+        //run -> edit configurations -> main.MoreAboutArrays -> program arguments
         System.out.println("args number: " + args.length);
         for (int i = 0; i < args.length; i++) {
             int myInt = Integer.valueOf(args[i]);

@@ -1,3 +1,5 @@
+package main;
+
 public class DefaultsInArray {
 
     //camelCaseNaming - именя переменных должны начинаться с маленькой буквы

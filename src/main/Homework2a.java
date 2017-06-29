@@ -1,3 +1,5 @@
+package main;
+
 public class Homework2a {
     //таблица умножения
     //  1 2 3 4 5 .. N
