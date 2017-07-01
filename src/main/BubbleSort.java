@@ -23,7 +23,7 @@ public class BubbleSort {
 
     public static void main(String[] args) {
         Random r = new Random();
-        int[] array = new int[10000];
+        int[] array = new int[16];
         for (int i = 0; i < array.length; i++) {
             array[i] = r.nextInt(1000);
         }
